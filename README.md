@@ -4,7 +4,7 @@ I made a simple version of the game Hangman. The player has a choice of five cat
 
 I wrote this program to understand how to write in Java better. I learned a few of the basics of the language in high school, but it's been years since I've really gotten into it and programmed with it.
 
-Here's a link to a demo of my program: [Software Demo Video](http://youtube.link.goes.here)
+Here's a link to a demo of my program: [Software Demo Video](https://youtu.be/P9IL9R3xcZU)
 
 # Development Environment
 
