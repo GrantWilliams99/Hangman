@@ -86,6 +86,9 @@ public class Hangman
     {
         boolean isSuccess = false;
 
+        // make the letter lowercase to prevent false flagging 
+        guess = Character.toLowerCase(guess);
+
         // loop through word
         for (int i = 0; i < word.size(); i++)
         {
